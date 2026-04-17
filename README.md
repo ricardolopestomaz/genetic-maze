@@ -57,7 +57,7 @@ This project uses evolutionary computation techniques to solve maze navigation p
     ```
 2. Compile the project:
     ```bash
-    gcc main.c _crossover/crossover.c _fitness/fitness.c _individual/individual.c _map/map.c _mutation/mutation.c _population/population.c _props/props.c _selection/selection.c _simulation/simulation.c _logs/logs.c graphs/graphs.c -o main.exe
+    gcc main.c _crossover/crossover.c _fitness/fitness.c _individuo/individuo.c _mapa/mapa.c _mutacao/mutacao.c _populacao/populacao.c _props/props.c _selecao/selecao.c _simulacao/simulacao.c _logs/logs.c graficos/graficos.c -o main.exe
     ```
 3. Run the program:
     ```bash
