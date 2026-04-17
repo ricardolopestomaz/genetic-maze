@@ -16,6 +16,9 @@ This project uses evolutionary computation techniques to solve maze navigation p
 <p align="center">
   <img src="https://i.ibb.co/pBLMVMRZ/Captura-de-tela-2025-06-25-101349.png" alt="Project Example">
 </p>
+<p align="center">
+  <img src="https://i.ibb.co/2Ytx8D1S/AEF52-A28-7742-40-B9-BD06-419-DDA63-D509.png" alt="Project Example">
+</p>
 
 ---
 
